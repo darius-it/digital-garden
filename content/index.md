@@ -4,7 +4,7 @@ title: Welcome to my digital garden 🪴
 
 Hi there, and welcome to my cozy corner of the Internet. Here I will collect a bunch of little pieces of information, from thoughts and ideas to random things that interest me.
 
-## Who am I
+## Who am I?
 I'm Darius, a passionate student from Germany. I have a variety of interests such reading (mostly sci-fi) books, listening to music from all around the world (with a focus on niche artists from Asia), but most importantly, great interest in anything about technology. 
 
 If you are interested in any of these topics, feel free to click on the words marked in blue to learn more about them.
