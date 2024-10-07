@@ -1,5 +1,5 @@
 ---
-title: Welcome to my digital garden 🪴
+title: Welcome to my digital garden 🌙
 ---
 
 Hi there, and welcome to my cozy corner of the Internet. Here I will collect a bunch of little pieces of information, from thoughts and ideas to random things that interest me.

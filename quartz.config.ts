@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Darius' Digital Garden",
+    pageTitle: "🏙️ Cityscapes",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -40,15 +40,15 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
+          light: "#01071e",
+          lightgray: "#1b1e37",
+          gray: "#868db9",
           darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          dark: "#c4bdff",
+          secondary: "#758ff9",
+          tertiary: "#8555da",
+          highlight: "#543ba3",
+          textHighlight: "#543ba3",
         },
       },
     },
